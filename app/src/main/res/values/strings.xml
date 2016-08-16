@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidBootApp</string>
+    <string name="titleEmergency">Emergency</string>
+    <string name="titleAppointment">Appointment</string>
+    <string name="titleInfo">Info</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu1">Test1</string>
+    <string name="menu2">Test2</string>
+    <string name="menu3">Test3</string>
+    <string name="menu4">Test4</string>
+</resources>

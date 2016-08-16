@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/meni1"
+            android:icon="@android:drawable/btn_star_big_off"
+            android:title="@string/menu1" />
+        <item
+            android:id="@+id/meni2"
+            android:icon="@android:drawable/btn_star_big_off"
+            android:title="@string/menu2" />
+        <item
+            android:id="@+id/meni3"
+            android:icon="@android:drawable/btn_star_big_off"
+            android:title="@string/menu3" />
+        <item
+            android:id="@+id/meni4"
+            android:icon="@android:drawable/btn_star_big_off"
+            android:title="@string/menu4" />
+
+
+    </group>
+
+   <!-- <item android:title="@string/app_name">
+        <menu>
+            <item
+                android:icon="@mipmap/ic_image"
+                android:title="@string/app_name" />
+
+        </menu>
+    </item>-->
+
+</menu>
